@@ -1,7 +1,7 @@
 # Chocolate Shipment Report
 
 **Tools:** Excel (source data) • Power Query (ETL) • Power BI Desktop (data model & visuals)  
-**Contents:** sample data, Power Query M scripts, screenshots, DAX measures and (optionally) PBIX.
+**Contents:** sample data, screenshots, DAX measures and  PBIX.
 
 ---
 
